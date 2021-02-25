@@ -1,5 +1,7 @@
 # Registration-form
 
-*Basic website template.
-*Registration form with JavaScript validation.
+<ul>
+  <li>Basic website template.</li>
+  <li>Registration form with JavaScript validation.</li>
+</ul>  
 
